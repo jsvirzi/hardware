@@ -26,8 +26,9 @@ MOUSER: 187-CL21A106KOQNNNG
 
 | capacitance |  type  |  size  | size (metric) | rating | temp coeff | tolerance | vendor p/n | digikey | mouser |
 | :---------: | :----: | :---:  | :-----------: | :----: | :--------: | :-------: | :--------: | :-----: | :----: |
-| 47uF | ceramic | 1206 | 3216 | 10V | X5R | 20% | SAMSUNG: CL31A476MPHNNNE | [187-CL31A476MPHNNNE](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31A476MPHNNNE/3888721?s=N4IgTCBcDaIIxgOwDYC0BmADM9IC6AvkA) | |
-| col 3 is      | right-aligned | $1600 |
+| 47uF | ceramic | 1206 | 3216 | 10V | X5R | 20% | SAMSUNG: CL31A476MPHNNNE | [187-CL31A476MPHNNNE](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31A476MPHNNNE/3888721?s=N4IgTCBcDaIIxgOwDYC0BmADM9IC6AvkA) | | 
+| 22uF | ceramic | 1206 | 3216 | 16V | X5R | - | SAMSUNG: CL31A226MOCLNNC | [1276-2728](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31A226MOCLNNC/3888386?s=N4IgTCBcDaIIxgOwDYC0SwA4QF0C%2BQA) | |
+| 22uF | tantalum | 1210 | 3528 | 20V | - | - | AVX: TAJB226M020RNJ | [478-3883](https://www.digikey.com/en/products/detail/avx-corporation/TAJB226M020RNJ/1126811?s=N4IgTCBcDaICwHYAcBaAzEpaQF0C%2BQA) | |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
