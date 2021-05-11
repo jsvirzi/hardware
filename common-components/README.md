@@ -1,5 +1,11 @@
 # Common Components
 
+## barrel jack
+
+Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle
+DIGIKEY: [732-5930](https://www.digikey.com/en/products/detail/694106301002/732-5930-ND/5047522?itemSeq=364373415)
+VENDOR: WURTH: 694106301002
+
 ## capacitors
 
 CAPACITOR: 47uF 20% 10V 3216-SIZE X5R
